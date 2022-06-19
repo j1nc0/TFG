@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+GUI.py
+exclusions.txt
+project_init.bat
+example.tfvars
+.vscode
+.terraform
