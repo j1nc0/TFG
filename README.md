@@ -22,6 +22,6 @@
 
 ## Usage
 
-Fill all the blank spaces. The create button will not work unless all the inputs are set. (except spot price if spot is not selected). Here it is an example:
+Fill all the blank spaces. The create button will not work unless all the inputs are set (except spot price if spot is not selected). Here it is an example:
 
 ![alt text](https://github.com/j1nc0/TFG/blob/main/images/GUI_with_contents.png "GUI")
