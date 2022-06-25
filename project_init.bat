@@ -6,4 +6,4 @@ terraform init -upgrade
 terraform fmt
 terraform workspace new %2
 terraform workspace select %2
-terraform apply -var-file="%2.tfvars"
+terraform apply -var-file="%2.tfvars" -auto-approve
