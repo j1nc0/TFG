@@ -1,6 +1,6 @@
 # Platform for deploying a highly available, secure and scalable web hosting architecture to the AWS cloud with Terraform
 
-![alt infrastructure deployment](https://github.com/j1nc0/TFG/images/TFG.png)
+![alt text](https://github.com/j1nc0/TFG/images/TFG.png)
 
 ## Dependencies
 - Accounts
@@ -23,4 +23,4 @@
 
 Fill all the blank spaces. The create button will not work unless all the inputs are set. (except spot price if spot is not selected). Here it is an example:
 
-![alt infrastructure deployment](https://github.com/j1nc0/TFG/images/GUI_with_contents.png)
+![alt text](https://github.com/j1nc0/TFG/images/GUI_with_contents.png)
