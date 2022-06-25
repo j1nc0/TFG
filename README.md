@@ -4,6 +4,8 @@
 
 ## Dependencies
 
+> :warning: **Make sure to change the hardcoded paths in project_init.bat** Otherwise it will not work in your computer!
+
 - Accounts
     - GitHub
     - AWS
